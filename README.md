@@ -1,6 +1,8 @@
 # hello-world
-My first repository 
+My first repository in the whole world!
 
 
-Hello, my name is imb13! I hope i will become a good programmer! =)
+Hello, my name is imb13! I will definitlty become a great programmer!
+
+LETS TRY AGAIN!
 
